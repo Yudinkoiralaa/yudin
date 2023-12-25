@@ -1,6 +1,14 @@
-# yudin
-this is my first reposity
-<br>
-Author = Yudin koirala
-<br>
-find me on email= yudinkoiralaa@gmail.com
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub HTML Example</title>
+
+</head>
+<body>
+    <h1>Hello, USER!</h1>
+    <p>This is a simple HTML file hosted on my acc.</p>
+</body>
+</html>
