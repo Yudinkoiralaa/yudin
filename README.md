@@ -1,6 +1,6 @@
 # yudin
 this is my first reposity
 <br>
-autor = Yudin koirala
+Autor = Yudin koirala
 <br>
-find me on email yudinkoiralaa@gmail.com
+find me on email= yudinkoiralaa@gmail.com
